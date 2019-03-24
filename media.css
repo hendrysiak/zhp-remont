@@ -1,0 +1,52 @@
+/* @media (orientation: landscape) {
+    .opener {
+        background-size: 15% auto, cover;
+    }
+    .title .opener h1 {
+        padding-top: 20px;
+        font-size: 22px;
+    }
+    .opener button {
+        top: -20px;
+        left: 65%;
+    }
+}
+
+@media (orientation: landscape) and (max-width:1024px) {
+    .title .opener h1 {
+        padding-top: 30px;
+        font-size: 44px;
+    }
+    .opener button {
+        font-size: 30px;
+        top: -45px;
+        left: 70%;
+        cursor: pointer;
+    }
+    .opener button:hover {
+        color: black;
+        background-color: white;
+    }
+}
+
+@media (orientation: portrait) and (max-width:320px) {
+    .opener button {
+        top: -80px;
+        left: 50%;
+    }
+    .title .opener h1 {
+        font-size: 18px;
+    }
+}
+
+@media (orientation: portrait) and (max-width:768px) {
+    .title .opener h1 {
+        padding-top: 30px;
+        font-size: 40px;
+    }
+    .opener button {
+        font-size: 32px;
+        top: -90px;
+        left: 55%;
+    }
+} */
