@@ -1,1 +1,1 @@
-Strona służąca zbiórce środków na remont domu harcerza
+#Strona służąca zbiórce środków na remont domu harcerza
